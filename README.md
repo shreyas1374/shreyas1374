@@ -8,8 +8,8 @@ This is Shreyas, a 4th year student who is currently pursuing B.Tech in Computer
 - 🚀 Open to internships & collaborations
 
 ## 🔧 Tech Stack
-- Python | Django | SQL | Machine Learning | Deep Learning | LLM | 
-- HTML | CSS | JavaScript
+- Python | Django | SQL | Machine Learning | Deep Learning | LLM | DSA 
+- HTML | CSS | Java | JavaScript | C
 
  ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/shreyas-shankar-526aaa268/)
